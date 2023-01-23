@@ -1,0 +1,23 @@
+ body{
+    background-color: rgb(162, 158, 186);
+    color:white;
+    font-family: monospace;
+ }
+
+ #camera{
+    height: 300;
+    width: 350;
+    border: 3px dotted white;
+ }
+
+ #result{
+    height: fit-content;
+    width: fit-content;
+ }
+
+ #imgRec{
+    background-color: rgb(177, 174, 196) ;
+    padding: 20px;
+    margin: 0px;
+    border-radius: 50px;
+ }
